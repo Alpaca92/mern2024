@@ -6,3 +6,7 @@ body {
   color: white;
   font-family: 'Roboto', sans-serif;
 }
+
+.image-inverted {
+  /* filter: invert(100%); */
+}
