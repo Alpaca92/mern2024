@@ -26,3 +26,5 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     </AuthProvider>
   </React.StrictMode>
 );
+
+// https://youtu.be/wrHTcjSZQ1Y?t=9988
